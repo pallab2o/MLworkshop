@@ -1,5 +1,4 @@
-# Scikit-learn workshop
-# Simple Scikit-Learn Workshop
+# Scikit-learn Workshop
 
 Welcome to the Simple Scikit-Learn Workshop! This workshop is designed to introduce you to the basics of machine learning using the scikit-learn library in Python. By the end of this workshop, you'll have a solid understanding of how to build and evaluate machine learning models using scikit-learn.
 
